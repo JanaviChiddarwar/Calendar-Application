@@ -34,33 +34,33 @@ This is a simple yet functional Calendar Event Management Application built usin
 
 3. Object-Oriented Programming
 
-Encapsulation through the Event class (name + date)
+    Encapsulation through the Event class (name + date)
 
-Custom methods for creating, editing, updating events
+    Custom methods for creating, editing, updating events
 
 4. Collections Framework
 
-List<Event> used internally to store events
+    List<Event> used internally to store events
 
-DefaultListModel<Event> to update UI dynamically
+    DefaultListModel<Event> to update UI dynamically
 
 5. Date & Time Handling
 
-Parsing and formatting dates using SimpleDateFormat
+    Parsing and formatting dates using SimpleDateFormat
 
-Validation for incorrect user input
+    Validation for incorrect user input
 
 6. MVC-like Structure
 
-While not a strict MVC, the project loosely follows it:
+    While not a strict MVC, the project loosely follows it:
 
-Model: Event class
+        Model: Event class
 
-View: Swing UI components
+        View: Swing UI components
 
-Controller: Logic inside button action listeners
+        Controller: Logic inside button action listeners
 
-#📂 Project Structure
+📂 Project Structure
 CalendarApplication.java
  ├── main UI window
  ├── event list handling
@@ -71,13 +71,14 @@ Event.java
  ├── date formatter methods
  └── toString override for display
 
-#▶️ How to Run
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+▶️ How to Run
 
-Ensure you have Java 8+ (works with Java 21 as well).
+    Ensure you have Java 8+ (works with Java 21 as well).
 
-Compile the project:
+    Compile the project:
 
-javac CalendarApplication.java
+        javac CalendarApplication.java
 
 
 Run:
