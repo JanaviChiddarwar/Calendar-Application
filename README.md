@@ -15,7 +15,6 @@ This is a simple yet functional Calendar Event Management Application built usin
 
 🖼️ User-Friendly UI created with Java Swing components.
 
-
 🛠️ Concepts & Technologies Used
 1. Java Swing (GUI Framework)
 
