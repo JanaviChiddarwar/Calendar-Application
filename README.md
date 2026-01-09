@@ -54,11 +54,11 @@ This is a simple yet functional Calendar Event Management Application built usin
 
     While not a strict MVC, the project loosely follows it:
 
-        Model: Event class
+    Model: Event class
 
-        View: Swing UI components
+    View: Swing UI components
 
-        Controller: Logic inside button action listeners
+    Controller: Logic inside button action listeners
 
 📂 Project Structure
 CalendarApplication.java
