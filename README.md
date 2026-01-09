@@ -2,17 +2,11 @@
 This is a simple yet functional Calendar Event Management Application built using Java Swing. It allows users to add, edit, and delete events with a date and event name. The project demonstrates core Java concepts such as GUI development, event handling, OOP, and date parsing.
 
 #🚀 Features
-
 ➕ Add Events — Users can create new events with a name and date.
-
 ✏️ Edit Events — Users can modify existing event details.
-
 ❌ Delete Events — Remove unwanted events from the list.
-
 📋 Event List View — Events are displayed in an interactive JList.
-
 📅 Date Handling using SimpleDateFormat.
-
 🖼️ User-Friendly UI created with Java Swing components.
 
 #🛠️ Concepts & Technologies Used
