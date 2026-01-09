@@ -74,17 +74,17 @@ Event.java
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ How to Run
 
-    Ensure you have Java 8+ (works with Java 21 as well).
+  Ensure you have Java 8+ (works with Java 21 as well).
 
     Compile the project:
 
         javac CalendarApplication.java
 
+  Run:
 
-Run:
+    java CalendarApplication
 
-java CalendarApplication
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📸 UI Overview
 
 Main window displays a list of events.
@@ -93,6 +93,8 @@ Buttons at the bottom for Add, Edit, Delete.
 
 Dialog boxes are used to collect user input.
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 💡 Possible Future Enhancements
 
 Add calendar view with JCalendar or JavaFX
