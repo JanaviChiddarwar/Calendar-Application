@@ -60,16 +60,6 @@ This is a simple yet functional Calendar Event Management Application built usin
 
     Controller: Logic inside button action listeners
 
-📂 Project Structure
-CalendarApplication.java
- ├── main UI window
- ├── event list handling
- ├── add/edit/delete operations
-
-Event.java
- ├── stores event details (name + date)
- ├── date formatter methods
- └── toString override for display
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ▶️ How to Run
@@ -104,3 +94,19 @@ Save events to a database or file
 Add reminders and notifications
 
 Improve UI with custom styling
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+📂 Project Structure
+CalendarApplication.java
+ ├── main UI window
+ 
+ ├── event list handling
+ 
+ ├── add/edit/delete operations
+
+Event.java
+ ├── stores event details (name + date)
+ 
+ ├── date formatter methods
+ 
+ └── toString override for display
