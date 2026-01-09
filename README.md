@@ -97,14 +97,18 @@ Improve UI with custom styling
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Project Structure
+
 CalendarApplication.java
+
  ├── main UI window
  
  ├── event list handling
  
  ├── add/edit/delete operations
 
+
 Event.java
+
  ├── stores event details (name + date)
  
  ├── date formatter methods
